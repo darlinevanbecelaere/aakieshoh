@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyietoogi.isellenstillpregnant.today/sitemap.xml
